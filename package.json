@@ -1,0 +1,24 @@
+{
+  "name": "js basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node colors.js",
+    "exemplo": "echo \"exemplo\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igornfaustino/aula-js-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igornfaustino/aula-js-basic/issues"
+  },
+  "homepage": "https://github.com/igornfaustino/aula-js-basic#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
